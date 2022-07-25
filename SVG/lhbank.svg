@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-lhbank">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="lhbank" clip-path="url(#clip-lhbank)">
+    <rect width="100" height="100" fill="#fff"/>
+    <g id="lhb" transform="translate(4.95 5.3)">
+      <path id="Path_83" data-name="Path 83" d="M36.788,51.231H9.7V9.7h6.162V44.941H36.788Z" transform="translate(0.35)" fill="#6c6d70"/>
+      <path id="Path_84" data-name="Path 84" d="M94.412,9.7V26H74.962V9.7H68.8V51.231h6.162v-19h19.45v19h6.162V9.7Z" transform="translate(-20.524)" fill="#6c6d70"/>
+      <g id="Group_87" data-name="Group 87" transform="translate(10.05 57.967)">
+        <rect id="Rectangle_26" data-name="Rectangle 26" width="8.75" height="21.733" fill="#d5dd28" opacity="0.7"/>
+        <rect id="Rectangle_27" data-name="Rectangle 27" width="8.75" height="21.733" transform="translate(8.75)" fill="#46c0c8" opacity="0.7"/>
+        <rect id="Rectangle_28" data-name="Rectangle 28" width="8.75" height="21.733" transform="translate(17.5)" fill="#913f98" opacity="0.7"/>
+        <rect id="Rectangle_29" data-name="Rectangle 29" width="8.75" height="21.733" transform="translate(26.25)" fill="#f48468" opacity="0.7"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="8.75" height="21.733" transform="translate(35)" fill="#0086c4" opacity="0.7"/>
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="8.75" height="21.733" transform="translate(43.75)" fill="#fcc510" opacity="0.7"/>
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="8.75" height="21.733" transform="translate(52.5)" fill="#9b9f94" opacity="0.7"/>
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="8.75" height="21.733" transform="translate(61.25)" fill="#f7941e" opacity="0.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

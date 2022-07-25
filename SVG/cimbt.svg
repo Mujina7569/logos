@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-cimb">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="cimb" clip-path="url(#clip-cimb)">
+    <rect width="100" height="100" fill="#fff"/>
+    <g id="Group_27" data-name="Group 27" transform="translate(-284 156)">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="100" height="100" transform="translate(284 -156)" fill="#790008"/>
+      <g id="Group_26" data-name="Group 26" transform="translate(295.404 -136.702)">
+        <path id="Path_129" data-name="Path 129" d="M0,0H52.632L76.41,30.741H23.778Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Path_130" data-name="Path 130" d="M0,30.741H52.632L76.41,0H23.778Z" transform="translate(0 30.741)" fill="#ec1c24"/>
+      </g>
+    </g>
+  </g>
+</svg>

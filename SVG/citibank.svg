@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-citi">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="citi" clip-path="url(#clip-citi)">
+    <rect width="100" height="100" fill="#056dae"/>
+    <g id="citi-2" data-name="citi" transform="translate(18 1.1)">
+      <path id="Path_20" data-name="Path 20" d="M18.981,71.025A7.935,7.935,0,1,1,12.754,58.17a7.976,7.976,0,0,1,5.975,2.712l2.963-3.766a12.7,12.7,0,1,0,0,17.976Z" transform="translate(0 -14.687)" fill="#fff"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="5.373" height="24.655" transform="translate(24.253 39.215)" fill="#fff"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="5.373" height="24.655" transform="translate(53.528 39.316)" fill="#fff"/>
+      <path id="Path_21" data-name="Path 21" d="M77.8,71.838c-4.62,0-5.724-3.917-5.825-6.176h-.05V51.6H67.2V47.083h4.72v-4.77L76.69,39.4l-.151,3.666v4.017H81.36V51.6H76.54v12.5a1.883,1.883,0,0,0-.05.552,2.06,2.06,0,0,0,.05.552v.3a3.154,3.154,0,0,0,1.908,2.41,3.5,3.5,0,0,0,1.255.251,3.307,3.307,0,0,0,2.511-1.155,3.048,3.048,0,0,0,.351-.5h0C82.616,66.365,82.716,71.838,77.8,71.838Z" transform="translate(-33.456 -7.717)" fill="#fff"/>
+      <path id="Path_22" data-name="Path 22" d="M85.85,88.5v1.054A1.883,1.883,0,0,1,85.8,89,1.708,1.708,0,0,1,85.85,88.5Z" transform="translate(-42.717 -32.162)" fill="#fff"/>
+      <path id="Path_23" data-name="Path 23" d="M62.843,23.9A26.21,26.21,0,0,0,41,35.55h7.582a20.383,20.383,0,0,1,14.21-5.825A20.167,20.167,0,0,1,77,35.55h7.683A26.391,26.391,0,0,0,62.843,23.9Z" transform="translate(-20.412)" fill="red"/>
+    </g>
+  </g>
+</svg>
